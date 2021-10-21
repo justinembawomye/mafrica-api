@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'mafrica_auth',
     'corsheaders',
+    'mafrica_courses',
     
 ]
 
